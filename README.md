@@ -1,6 +1,6 @@
 # Overview
 
-This is a simple poc using [spring-redis] to creating application with [redis]
+This is a simple poc using [spring-redis]
 
 ## Testing
 
